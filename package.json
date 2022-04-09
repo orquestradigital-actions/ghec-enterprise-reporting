@@ -32,7 +32,7 @@
     "@octokit/plugin-enterprise-cloud": "^4.2.0",
     "@octokit/plugin-throttling": "^3.3.0",
     "eta": "^1.2.2",
-    "moment": "^2.27.0"
+    "moment": "^2.29.2"
   },
   "devDependencies": {
     "@types/jest": "^26.0.15",
